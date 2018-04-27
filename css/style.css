@@ -5,5 +5,7 @@
 }
 
 .jumbotron {
-  height: 300px;
+  height: 700px;
+  background: url("../assets/backgrounds/landing.jpg");
+  background-size: cover;
 }
