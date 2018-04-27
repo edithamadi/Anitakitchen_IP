@@ -9,3 +9,8 @@
   background: url("../assets/backgrounds/landing.jpg");
   background-size: cover;
 }
+
+.logo {
+  width: 300px;
+  margin: 0 auto;
+}
