@@ -74,3 +74,12 @@
   margin: 0 auto;
   font-size: 20px
 }
+.foodndrinks{
+  width: 92%;
+  border: 1px solid black;
+  margin: 10 auto;
+  padding: 20px 10px;
+}
+.blackcontainer{
+  background: url("../assets/backgrounds/foodsBg.jpg");
+}
