@@ -8,6 +8,7 @@
   height: 700px;
   background: url("../assets/backgrounds/landing.jpg");
   background-size: cover;
+  margin-bottom: 0px;
 }
 
 .logo {
@@ -24,17 +25,52 @@
 }
 .Happy {
   margin: 20px auto;
+  height: 105px;
+  padding: 50px;
   text-align:center;
-  width: 400px;
   font-family: 'Crimson Text', serif;
   background: #ffffff;
   background-size: cover;
 }
 .Party {
   margin: 20px auto;
+  height: 105px;
+  padding: 50px;
   text-align:center;
-  width: 400px;
   font-family: 'Crimson Text', serif;
-  background: #f45342;
+  background: #F15A29;
   background-size: cover;
+}
+.bg{
+  padding: 0px;
+}
+.imgbreakfast{
+  background: url("../assets/foodtop/breakfast.jpg");
+  padding: 105px;
+  margin: 0px;
+  margin-bottom: auto;
+}
+.imglunch{
+  background: url("../assets/foodtop/dinner.jpg");
+  padding: 105px;
+  margin: 0px;
+}
+.imgdinner{
+  background: url("../assets/foodtop/dinner2.jpg");
+  padding: 105px;
+  margin: 0px;
+}
+.imgfastfood1{
+  padding: 105px;
+  margin: 0px;
+}
+.imgfastfood2{
+  padding: 105px;
+  margin: 0px;
+}
+.bigcontainer{
+  width: 85%;
+  padding-top: 5%;
+  margin: 0 auto;
+  font-size: 20px
 }
