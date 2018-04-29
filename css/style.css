@@ -24,7 +24,7 @@
   font-family: 'Crimson Text', serif;
 }
 .Happy {
-  margin: 20px auto;
+  margin: 10px auto;
   height: 105px;
   padding: 50px;
   text-align:center;
@@ -72,14 +72,52 @@
   width: 85%;
   padding-top: 5%;
   margin: 0 auto;
-  font-size: 20px
+  font-size: 20px;
 }
-.foodndrinks{
+.drinks{
+  width: 100%;
+  padding-top: 5%;
+  margin: 0 auto;
+  font-size: 20px;
+  text-align: left;
+}
+.imgfood{
   width: 92%;
   border: 1px solid black;
   margin: 10 auto;
-  padding: 20px 10px;
+  padding: 30px 10px;
+}
+.food_description{
+    width: 92%;
+    border: 1px;
+    margin: 10 auto;
+    padding: 20px 10px;
+}
+.imgdrinks{
+  width: 92%;
+  border: 1px solid black;
+  margin: 30 auto;
+  padding: 17px  8px;
+}
+.drinks_description{
+    width: 92%;
+    border: 1px;
+    margin: 10 auto;
+    padding: 20px 10px;
 }
 .blackcontainer{
+  height: 600px;
+  padding-top: 120px;
+  padding-left: 150px;
+  padding-right: 150px;
   background: url("../assets/backgrounds/foodsBg.jpg");
+  background-image: cover;
+  margin-bottom: 0px;
+}
+.whitecontainer{
+  background-color: #ffffff;
+  height: 350px;
+  padding: 1.5%;
+  padding-right: 5%;
+  width: 100%;
 }
