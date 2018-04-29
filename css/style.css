@@ -71,12 +71,14 @@
 .bigcontainer{
   width: 85%;
   padding-top: 5%;
+  padding-bottom: 5%;
   margin: 0 auto;
   font-size: 20px;
 }
 .drinks{
   width: 100%;
   padding-top: 5%;
+  padding-bottom: 5%;
   margin: 0 auto;
   font-size: 20px;
   text-align: left;
