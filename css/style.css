@@ -126,3 +126,11 @@
 .customernmenu{
   padding: 5%;
 }
+.footer {
+  padding-top: 10%;
+  margin: 0px auto;
+  height: 300px;
+  text-align:center;
+  font-family: 'Crimson Text', serif;
+  background: #F15A29;
+  background-size: cover;
