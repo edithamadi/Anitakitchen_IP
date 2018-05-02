@@ -9,7 +9,8 @@ Project setup instructions
 
 To see the work done use the following commands:
 
-- `git clone https://github.com/edithamadi/Anita's Kitchen.git`
+- `git clone https://github.com/edithamadi/Anitakitchen_IP.git
+
 - `cd anita`
   `cd ipwk2'
 - `atom .`
@@ -17,7 +18,7 @@ To see the work done use the following commands:
 
 link to live site on gh-pages
 
-https://edithamadi.github.io/Anita'sKitchen/
+https://github.com/edithamadi/Anitakitchen_IP.git
 
 Copyright and License
 
