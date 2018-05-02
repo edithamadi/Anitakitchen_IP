@@ -9,7 +9,7 @@ Project setup instructions
 
 To see the work done use the following commands:
 
-- `git clone https://github.com/edithamadi/portfolio.git`
+- `git clone https://github.com/edithamadi/Anita's Kitchen.git`
 - `cd anita`
   `cd ipwk2'
 - `atom .`
