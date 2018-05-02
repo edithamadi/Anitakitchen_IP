@@ -2,7 +2,7 @@ Project Name: Anita's Kitchen
 
 Author(s)
 [Edith Amadi](https://github.com/edithamadi).
-Description of Project
+Description of Project.
 This project is a website describing what services anita's kitchen offers.
 
 Project setup instructions
