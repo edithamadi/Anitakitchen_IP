@@ -1,7 +1,7 @@
 Project Name: Anita's Kitchen
 
 Author(s)
-[Edith Amadi](https://github.com/edithamadi).
+Edith Amadi
 Description of Project.
 This project is a website describing what services anita's kitchen offers.
 
@@ -18,7 +18,7 @@ To see the work done use the following commands:
 
 link to live site on gh-pages
 
-https://github.com/edithamadi/Anitakitchen_IP.git
+https://edithamadi.github.io/Anitakitchen_IP/
 
 Copyright and License
 
