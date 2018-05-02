@@ -26,8 +26,8 @@
 }
 .Happy {
   margin: 10px auto;
-  height: 105px;
-  padding: 50px;
+  height: 84px;
+  padding: 44px;
   text-align:center;
   font-family: 'Crimson Text', serif;
   background: #ffffff;
@@ -35,8 +35,8 @@
 }
 .Party {
   margin: 20px auto;
-  height: 105px;
-  padding: 50px;
+  height: 95px;
+  padding: 37px;
   text-align:center;
   font-family: 'Crimson Text', serif;
   background: #F15A29;
@@ -51,16 +51,65 @@
   margin: 0px;
   margin-bottom: auto;
 }
+.imgbreakfast{
+  background-color: #fff;
+  border: 1px solid black;
+  height: 210px;
+  color: #fff;
+  text-align: center;
+}
+.imgbreakfast p{
+  position: relative;
+  top: 105px;
+}
+.imgbreakfast:hover{
+  opacity: 0.9;
+  cursor: pointer;
+}
 .imglunch{
   background: url("../assets/foodtop/dinner.jpg");
   padding: 105px;
   margin: 0px;
+}
+.imglunch{
+  background-color: #fff;
+  border: 1px solid black;
+  height: 210px;
+  color: #fff;
+  text-align: center;
+}
+.imglunch p{
+  position: relative;
+  top: 105px;
+}
+.imglunch:hover{
+  opacity: 0.9;
+  cursor: pointer;
 }
 .imgdinner{
   background: url("../assets/foodtop/dinner2.jpg");
   padding: 105px;
   margin: 0px;
 }
+
+.imgdinner{
+  background-color: #fff;
+  border: 1px solid black;
+  height: 210px;
+  color: #fff;
+  text-align: center;
+}
+
+.imgdinner p{
+  position: relative;
+  top: 105px;
+}
+
+.imgdinner:hover{
+  opacity: 0.9;
+  cursor: pointer;
+}
+
 .imgfastfood1{
   padding: 105px;
   margin: 0px;
